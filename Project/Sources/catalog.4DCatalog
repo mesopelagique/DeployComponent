@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="DeployComponent" uuid="3C61E5D5C3E44DA5B911E6A508A2E2DF" collation_locale="en-gb">
+	<schema name="DEFAULT_SCHEMA"/>
+</base>

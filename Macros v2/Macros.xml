@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE macros SYSTEM "http://www.4d.com/dtd/2007/macros.dtd">
+<macros>
+  <macro name="-">
+  <text> </text>
+  </macro>
+  <macro in_menu="true" name="Deploy to (&lt;B" type_ahead="false" version="2">
+    <text>  
+    </text>
+  </macro>
+  <macro in_menu="true" name="  4D App" type_ahead="false" version="2">
+    <text>
+      <method>deploytoApp()</method>
+    </text>
+  </macro>
+  <macro in_menu="true" name="  Selected Folder" type_ahead="false" version="2">
+    <text>
+      <method>deployToSelectedFolder()</method>
+    </text>
+  </macro>
+</macros>
