@@ -26,7 +26,7 @@ kaluza install -g mesopelagique/DeployComponent
 ## How to use
 
 - Open any 4d database that you want to deploy
-- From any method in method editor, open the macro menu and launch one of the macro et voila! 
+- From any method in method editor, open the macro menu and launch one of the macro under `Deploy to` et voila! 
 
 > :bulb: press Shift down to open on disk the builded component
 
