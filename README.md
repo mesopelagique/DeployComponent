@@ -3,6 +3,7 @@
 [![language][code-shield]][code-url]
 [![language-top][code-top]][code-url]
 ![code-size][code-size]
+[![build](https://github.com/mesopelagique/DeployComponent/actions/workflows/build.yml/badge.svg)](https://github.com/mesopelagique/DeployComponent/actions/workflows/build.yml)
 [![discord][discord-shield]][discord-url]
 
 Macro to deploy 4d component to current 4d app or selected folder.
