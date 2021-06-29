@@ -16,7 +16,7 @@ Macro to deploy 4d component to current 4d app or selected folder.
 
 Open the component and use the method editor macro `Deploy to > 4D App`
 
-### using command line interface on macOS
+### or using command line interface on macOS
 
 Using [kaluza](https://mesopelagique.github.io/kaluza-cli/)
 
@@ -24,10 +24,12 @@ Using [kaluza](https://mesopelagique.github.io/kaluza-cli/)
 kaluza install -g mesopelagique/DeployComponent
 ```
 
-## How to use
+## How to use?
 
-- Open any 4d database that you want to deploy
+- Open any 4d database that you want to deploy (compile + move somewhere)
 - From any method in method editor, open the macro menu and launch one of the macro under `Deploy to` et voila! 
+
+![Screenshot](Screenshot.png)
 
 > :bulb: press Shift down to open on disk the builded component
 
